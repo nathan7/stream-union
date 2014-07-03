@@ -24,7 +24,7 @@ var union = require('stream-union')
 ## API
 ### union(aStream :: ReadableStream, bStream :: ReadableStream) -> ReadableStream
 
-  Intersect two streams.
+  Union two sorted streams.
 
 ### union.using({ toKey, cmp, merge }) -> function union(a, b) -> ReadableStream
 
