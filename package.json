@@ -1,0 +1,27 @@
+{
+  "name": "stream-union",
+  "version": "1.0.0",
+  "description": "union of sorted streams",
+  "main": "index.js",
+  "dependencies": {
+    "readable-stream": "^1.0.27-1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/stream-union.git"
+  },
+  "keywords": [
+    "stream",
+    "set",
+    "union",
+    "index",
+    "leveldb"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan7/stream-union/issues"
+  },
+  "homepage": "https://github.com/nathan7/stream-union"
+}
