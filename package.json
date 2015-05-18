@@ -1,6 +1,6 @@
 {
   "name": "stream-union",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "union of sorted streams",
   "main": "index.js",
   "dependencies": {
